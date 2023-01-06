@@ -1,0 +1,25 @@
+outlines:
+
+1-cloud service ? [IAAS  ,PAAS ,SAAS]
+
+2-Vnet infrastructure
+
+3-NSG
+
+4-VM 
+
+5-DNS ,Peering 
+
+6-Backup in Azure [on-prem ,azure load]
+
+7-azure service valut [failover cluster]
+
+8-Azure LB 
+
+9-Monitoring 
+
+10-troubleshooting 
+
+
+free account link :
+https://azure.microsoft.com/en-us/free/
